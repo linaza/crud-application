@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  background-color: rgb(65, 48, 87);
+}
+.body{
+  background-color: black;
+}
+.item{
+  display: flex;
+  flex-direction: row;
+ 
+}
+.item h6{
+  margin-top: 1px;
+  width: 80%;
+  height: 40px;
+  margin-left: 2%;
+  margin-right: 2%;
+  font-size: 32px;
+  text-align: center;
+  background-color:aquamarine;
+  align-self: center;
+}
