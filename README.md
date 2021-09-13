@@ -5,7 +5,8 @@ to run the application client side you need to run "npm start" while you are ins
 to run the application server side you need to run "npm run devStart" while you are inside the server file
 
 ## Problem difinition :
- this app provides a table of users which can be updated [accessibility map](https://github.com/linaza/crud-application/blob/main/pic12.jpg.png) for there own, they can only photograph it, because there are few such maps there.
+ this app provides a table of users which can be updated 
+ <img align = "right" src = "https://github.com/linaza/CityTourGuide/blob/master/ab.png" width = 30%>
 ## Solution :
 Developing an application that helps tourists travel around the Old City more easily and conveniently by:
 - Providing online/offline free virtual map for the oldcity of Jerusalem with attraction navigation by considering the attractive routes.
