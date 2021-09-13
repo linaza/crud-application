@@ -16,5 +16,5 @@ Developing an application that allows :
 - Updating the users table.
 
 ## Tools & Practices :
-This application is built using **Reactjs** + **Nodejs** + **Mysql* . 
+This application is built using **Reactjs** + **Nodejs** + **Mysql** . 
 
