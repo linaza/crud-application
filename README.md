@@ -14,6 +14,7 @@ Developing an application that allows :
 - Adding users to the users table
 - Removing a user from the users table.
 - Updating the users table.
+- <img align = "right" src = "https://github.com/linaza/crud-application/blob/main/Picture2.png" width = 40% >
 
 ## Tools & Practices :
 This application is built using **Reactjs** + **Nodejs** + **Mysql** . 
