@@ -10,7 +10,7 @@
  this app provides a table of users which can be updated 
 ## Solution :
 Developing an application that allows :
--Reading the users table
+- Reading the users table
 - Adding users to the users table
 - Removing a user from the users table.
 - Updating the users table.
